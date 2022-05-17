@@ -1,5 +1,5 @@
 - <h1>👋 Hi, I’m Chinwuba</h1>
-- <p>👀 I’m interested in Web development and Web3</p>
+- <h2>👀 I’m interested in Web development and Web3<h2>
 - <p>🌱 I’m currently learning JavaScript </p>
 - <p>💞️ I’m looking to collaborate on any interesting/fun projects</p>
 - <p>📫 You can send me an email @chiizzy12a@gmail.com</p>
