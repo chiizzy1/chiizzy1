@@ -6,13 +6,13 @@
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/IAf4rGXKes4-vP0v-oHhqIQwvNCTlJRltN6QP2zHfQo/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2YxL2U3/LzM0L2YxZTczNGY5/Y2FkZTg2ZmU3Mzdh/OWFhNDA0YWQ1Njc3/LmdpZg.gif">
 
 
-- 🔭 I’m currently working on [100Devs 100 hours project](...)
+- 🔭 I’m currently working on [building a start up](...)
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **Smart Contract Auditing**
 
-- 👨‍💻 All of my projects are available at [https://izzydev.netlify.app/](https://izzydev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://izzydev.netlify.app/](https://izzydev.vercel.app/)
 
-- 💬 Ask me about **React Js, Next Js and Node JS**
+- 💬 Ask me about **How to build a SASS**
 
 - 📫 How to reach me **chiizzy12a@gmail.com**
 
