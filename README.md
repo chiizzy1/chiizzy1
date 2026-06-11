@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Izzy</h1>
 <h3 align="center">A Fullstack dev</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.izzydevbuilds.xyz/](https://www.izzydevbuilds.xyz/)
+-
 
 - 📫 How to reach me **izzydevbuilds@gmail.com**
 
